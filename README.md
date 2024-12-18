@@ -7,17 +7,17 @@ In 2024, Garly was appointed as the Putra Putri Pendidikan Provinsi Jawa Barat 2
 Garly always upholds the philosophy of "Ing Ngarso Sung Tulodho, Ing Madyo Mangun Karso, Tut Wuri Handayani" from Ki Hadjar Dewantara. This philosophy is his life principle in leading, inspiring, and supporting others.
 
 ### Find me on 🌎:
-- Learning in public on <a href="https://www.thisisgarlynugraha.com">My Website</a>
-- Discuss with <a href="https://instagram.com/thisisgarlynugraha">Instagram</a>
+- Learning in public on <a href="https://www.thisisgarly.me">My Website</a>
+- Discuss with <a href="https://instagram.com/thisisgarly">Instagram</a>
 
 ---
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=thisisgarlynugraha&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=thisisgarly&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisgarlynugraha&langs_count=3&hide=html,css&show_icons=true&theme=vision-friendly-dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisgarlynugraha&show_icons=true&theme=vision-friendly-dark&line_height=27" alt="Garll GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisgarly&langs_count=3&hide=html,css&show_icons=true&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisgarly&show_icons=true&theme=vision-friendly-dark&line_height=27" alt="Garll GitHub stats" />
 </div>
